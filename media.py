@@ -8,3 +8,4 @@ class Movie():
         self.director = director
         self.youtube_trailer = youtube_trailer
         self.box_art = box_art
+
